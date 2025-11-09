@@ -1,27 +1,10 @@
-
-# Streamlit y utilidades
 streamlit==1.50.0
 numpy==1.26.4
 pandas==2.1.0
-
-# Procesamiento de PDFs
-pdfplumber==0.11.7
-
-# Búsqueda y NLP
 scikit-learn==1.5.2
 tensorflow==2.20.0
 tensorflow-hub==0.16.1
-
-# Para el clasificador (ML/Keras)
-h5py==3.15.1
-tensorflow-io-gcs-filesystem==0.33.0
-
-# Opcionales para preprocesamiento de texto
-nltk==3.8.1
-spacy==3.6.1
-
-# Para mostrar gráficos o tablas (si los usás en la app)
+pdfplumber==0.11.7
 matplotlib==3.7.3
 seaborn==0.12.2
 altair==5.5.0
-
