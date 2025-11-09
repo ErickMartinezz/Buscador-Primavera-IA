@@ -1,0 +1,13 @@
+
+---
+
+### **requirements.txt**
+
+```text
+streamlit==1.50.0
+numpy==1.26.4
+scikit-learn==1.5.2
+tensorflow==2.20.0
+tensorflow-hub==0.16.1
+pdfplumber==0.11.7
+pypdfium2==4.30.0
